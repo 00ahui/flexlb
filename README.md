@@ -70,7 +70,7 @@ rpm -ivh haproxy-2.0.14-1.eulerosv2r9.x86_64.rpm
 
 ### Download FlexLB API Server
 
-Download <U>[flexlb-api-0.4.0-linux-amd64.tar.gz](/releases/0.4.0/flexlb-api-0.4.0-linux-amd64.tar.gz)</U> and extract the tarball.
+Download <U>[flexlb-api-0.4.0-linux-amd64.tar.gz](https://flexlb.gitee.io/releases/0.4.0/flexlb-api-0.4.0-linux-amd64.tar.gz)</U> and extract the tarball.
 
 ```sh
 VERSION=0.4.0
@@ -172,7 +172,7 @@ sh delete_instance.sh inst1
 
 ### Download FlexLB CLI
 
-Download <U>[flexlb-cli-0.4.0-linux-amd64.tar.gz](/releases/0.4.0/flexlb-cli-0.4.0-linux-amd64.tar.gz)</U> and extract the tarball.
+Download <U>[flexlb-cli-0.4.0-linux-amd64.tar.gz](https://flexlb.gitee.io/releases/0.4.0/flexlb-cli-0.4.0-linux-amd64.tar.gz)</U> and extract the tarball.
 
 ```sh
 VERSION=0.4.0
@@ -230,7 +230,7 @@ Delete instance:
 
 ### Download Controller
 
-Download <U>[flexlb-kube-controller-0.4.0.tar.gz](/releases/0.4.0/flexlb-kube-controller-0.4.0.tar.gz)</U> and extract the tarball.
+Download <U>[flexlb-kube-controller-0.4.0.tar.gz](https://flexlb.gitee.io/releases/0.4.0/flexlb-kube-controller-0.4.0.tar.gz)</U> and extract the tarball.
 
 ```sh
 VERSION=0.4.0
